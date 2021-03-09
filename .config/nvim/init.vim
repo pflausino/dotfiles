@@ -25,3 +25,4 @@ set smartcase
 set inccommand=split
 
 set termguicolors
+set number
