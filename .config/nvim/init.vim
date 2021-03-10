@@ -24,5 +24,4 @@ set smartcase
 " preview replace changes in a split window
 set inccommand=split
 
-set termguicolors
 set number
